@@ -1,15 +1,16 @@
 # Roman Numerals
 
-Write a function to convert from normal numbers to Roman Numerals.
+Write a function which converts normal numbers into Roman Numerals.
 
-The Romans wrote numbers using letters - I, V, X, L, C, D, M
+-
 
-1  => I
-10  => X
-7  => VII
+The Romans wrote numbers using letters - I, V, X, L, C, D, M 
+e.g:
+  - 1  => I
+  - 10  => X
+  - 7  => VII
 
-There is no need to be able to convert numbers larger than about 3000.
-(The Romans themselves didn't tend to go any higher)
+The largest number which might need converting is 3000.
 
 Wikipedia says: Modern Roman numerals ... are written by expressing each
 digit separately starting with the left most digit and skipping any
@@ -19,12 +20,12 @@ To see this in practice, consider the example of 1990.
 
 In Roman numerals 1990 is MCMXC:
 
-1000=M
-900=CM
-90=XC
+  - 1000=M
+  - 900=CM
+  - 90=XC
 
 2008 is written as MMVIII:
 
-2000=MM
-8=VIII
+  - 2000=MM
+  - 8=VIII
 
