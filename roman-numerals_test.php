@@ -9,5 +9,5 @@ class RomanTest extends PHPUnit\Framework\TestCase
         $this->assertSame('I', toRoman(1));
     }
 
-    /* More tests... */
+    /* More tests are needed... */
 }
